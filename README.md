@@ -43,6 +43,8 @@ We obtained all results in the paper by multi-seed training. The results for Con
 
 For the image-based Push-T task, we trained for 1000 epochs, and for image-based tasks in Robomimic we trained for 1500 epochs for Lift, Can, and Square, and 500 epochs for Transport and Tool-hang​.
 
+We provide pre-trained checkpoints at the [HuggingFace Hub](https://huggingface.co/sigmundhh/streaming_diffusion_policy).
+
 ## Citation
 
 If you find our work useful, please consider citing [our paper](https://arxiv.org/abs/2406.04806):
